@@ -1,0 +1,3 @@
+[submodule "themes-dist"]
+	path = themes-dist
+	url = https://github.com/wet-boew/themes-dist.git
